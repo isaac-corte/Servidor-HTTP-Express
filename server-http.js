@@ -28,7 +28,9 @@ server.listen(PORT, 'localhost', () => {
 // R: é o que responde uma requisicao   
 
 // O que é o Express e por que ele é chamado de "Framework"?
-// R:
+// R: é uma biblioteca do Node.js criada para facilitar a construção de 
+// servidores e aplicações web.
+// Porque é uma estrutura pronta que ajuda no desenvolvimento de aplicações.
 
 // O que é uma "Rota" (Route) no Express?
-// R:
+// R: é o caminho que o usuário acessa no navegador.
